@@ -1,2 +1,2 @@
 # hactoberfestaj
-created for hacktober fest
+Created for hacktober fest
